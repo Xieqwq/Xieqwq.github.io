@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>text</title>
+      <link href="blog/text/"/>
+      <url>blog/text/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试页面</title>
       <link href="blog/done/"/>
       <url>blog/done/</url>
